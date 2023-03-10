@@ -2,6 +2,13 @@
 
 
 
+## [1.49.0](https://github.com/googleapis/google-cloud-go/compare/bigquery/v1.48.0...bigquery/v1.49.0) (2023-03-10)
+
+
+### Features
+
+* **bigquery:** Add support for storage billing model ([#7510](https://github.com/googleapis/google-cloud-go/issues/7510)) ([0132ca9](https://github.com/googleapis/google-cloud-go/commit/0132ca9e43f979d0e164b31a1fde203694311b43)), refs [#6978](https://github.com/googleapis/google-cloud-go/issues/6978)
+
 ## [1.48.0](https://github.com/googleapis/google-cloud-go/compare/bigquery/v1.47.0...bigquery/v1.48.0) (2023-03-01)
 
 
