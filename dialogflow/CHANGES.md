@@ -1,5 +1,16 @@
 # Changes
 
+## [1.32.0](https://github.com/googleapis/google-cloud-go/compare/dialogflow/v1.31.0...dialogflow/v1.32.0) (2023-03-10)
+
+
+### Features
+
+* **dialogflow/cx:** Added persist_parameter_changes field from `query_params` to MatchIntentRequest ([69067f8](https://github.com/googleapis/google-cloud-go/commit/69067f8c0075099a84dd9d40e438711881710784))
+* **dialogflow/cx:** Added persist_parameter_changes field from `query_params` to MatchIntentRequest ([69067f8](https://github.com/googleapis/google-cloud-go/commit/69067f8c0075099a84dd9d40e438711881710784))
+* **dialogflow:** Added support for custom content types ([8c98464](https://github.com/googleapis/google-cloud-go/commit/8c9846414f57620db198bad863cca38529d39e9e))
+* **dialogflow:** Added support for custom content types docs: clarified wording around quota usage ([69067f8](https://github.com/googleapis/google-cloud-go/commit/69067f8c0075099a84dd9d40e438711881710784))
+* **dialogflow:** Added support for custom content types docs: clarified wording around quota usage ([69067f8](https://github.com/googleapis/google-cloud-go/commit/69067f8c0075099a84dd9d40e438711881710784))
+
 ## [1.31.0](https://github.com/googleapis/google-cloud-go/compare/dialogflow/v1.30.0...dialogflow/v1.31.0) (2023-02-22)
 
 

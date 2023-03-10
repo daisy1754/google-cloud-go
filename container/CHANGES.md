@@ -1,5 +1,13 @@
 # Changes
 
+## [1.13.2](https://github.com/googleapis/google-cloud-go/compare/container/v1.13.1...container/v1.13.2) (2023-03-10)
+
+
+### Documentation
+
+* **container:** Minor grammar improvements ([69067f8](https://github.com/googleapis/google-cloud-go/commit/69067f8c0075099a84dd9d40e438711881710784))
+* **container:** Minor typo fix ([69067f8](https://github.com/googleapis/google-cloud-go/commit/69067f8c0075099a84dd9d40e438711881710784))
+
 ## [1.13.1](https://github.com/googleapis/google-cloud-go/compare/container/v1.13.0...container/v1.13.1) (2023-02-14)
 
 

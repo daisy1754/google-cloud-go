@@ -1,5 +1,12 @@
 # Changes
 
+## [1.8.1](https://github.com/googleapis/google-cloud-go/compare/trace/v1.8.0...trace/v1.8.1) (2023-03-10)
+
+
+### Documentation
+
+* **trace:** Recommend OpenTelemetry instead of OpenCensus ([69067f8](https://github.com/googleapis/google-cloud-go/commit/69067f8c0075099a84dd9d40e438711881710784))
+
 ## [1.8.0](https://github.com/googleapis/google-cloud-go/compare/trace-v1.7.0...trace/v1.8.0) (2023-01-26)
 
 
